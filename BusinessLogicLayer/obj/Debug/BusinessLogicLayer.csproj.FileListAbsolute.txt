@@ -1,0 +1,11 @@
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\Layer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\bin\Debug\Layer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

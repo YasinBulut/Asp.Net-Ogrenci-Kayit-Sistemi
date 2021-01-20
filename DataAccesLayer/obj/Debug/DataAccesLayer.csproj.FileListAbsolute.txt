@@ -1,0 +1,9 @@
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\bin\Debug\Layer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\bin\Debug\Layer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

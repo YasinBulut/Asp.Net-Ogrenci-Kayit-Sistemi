@@ -1,0 +1,6 @@
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\bin\Debug\Layer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\bin\Debug\Layer.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\obj\Debug\Layer.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\obj\Debug\Layer.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\obj\Debug\Layer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Bootstrap ile Katmanlı Mimaride Yaz Okulu\Layer\obj\Debug\Layer.pdb
